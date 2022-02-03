@@ -1,2 +1,2 @@
 # FTSA
-financial time series analysis of some stocks using R
+financial time series analysis of GME stock using R
